@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["fitness-class-scheduler-lite/src/*"]
+    }
+  },
+  "exclude": ["fitness-class-scheduler-lite/node_modules", "dist"]
+}
